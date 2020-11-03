@@ -1,0 +1,26 @@
+.normal-seat {
+    width:150px;
+    height:150px;
+    border-style: solid;
+    margin: 5px;
+}
+
+.vacant-seat {
+    border-color: #b40000;
+}
+
+.big-seat {
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+    margin: 5px;
+}
+
+#container{
+    position: relative;
+    height: 100%;
+}
+#footer{
+    position: absolute;
+    bottom: 0;
+}
